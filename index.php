@@ -29,7 +29,7 @@
 
     <?php include("./Navbar/nav.html"); ?>
     
-    
+    <p>Test</p>
     
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
