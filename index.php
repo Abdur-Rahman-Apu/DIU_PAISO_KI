@@ -122,11 +122,58 @@
       <!-- header end -->
 
 
+      <!-- main start -->
+    <main>
+      <section class="teacher">
+
+        <div class="custom-shape-divider-top-1636350828">
+          <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+              <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
+          </svg>
+      </div>
 
 
-    <!-- Option 1: Bootstrap Bundle with Popper -->
+
+        <div class="custom-shape-divider-bottom-1636344393">
+          <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+              <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
+          </svg>
+      </div>
+        <div class="inner-teacher">
+          <div class="left-teacher">
+            <div class="text mb-3">
+                <h3 class="teacher-text">Teacher information</h3>
+           </div>
+            <figure class="quote mt-4">
+              <blockquote class="blockquote">
+                <p>It is the supreme art of the teacher to awaken joy in creative expression and knowledge.</p>
+              </blockquote>
+              <figcaption class="blockquote-footer">
+                <cite title="Source Title">Albert Einstein</cite>
+              </figcaption>
+              
+            </figure>
+            <a role="button" href="teacher.html" class="btn btn-primary">Search <i class="fas fa-search"></i></a>
+          </div>
+          <div class="right-teacher">
+            <img src="./img/Teacher/teacher-removebg-preview-removebg-preview.png" alt="teacher">
+          </div>
+        </div>
+      </section>
+
+      <!-- teacher end -->
+
+
+
+
+        <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-    <script src="./Navbar/mobile.js"></script>
+    <script src="./tilt.jquery.min.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/main.js"></script>
 
   
   </body>
