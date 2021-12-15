@@ -1,0 +1,10 @@
+
+
+/* club */
+
+main .clubs .card{
+    overflow: hidden;
+    text-align: center;
+    height: calc(100vh/1.2);
+}
+
