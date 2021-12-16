@@ -67,3 +67,44 @@ header .navbar-nav{
     padding:0;
     margin: 0;
 }
+/* navbar end */
+
+/* question */
+
+main .question{
+    height: 100vh;
+}
+
+main .question .btn{
+    padding-left: 20px;
+    
+}
+main .question .btn:hover{
+    background-color: #2ecc71;
+    border-style: none;
+}
+main .question .btn .search{
+    margin-left: 10px;
+}
+
+
+main .question .second{
+    margin-top: 80px;
+}
+
+
+main .question .question-quote{
+    width: 80%;
+    padding: 10px;
+    margin-top: 100px;
+    
+
+}
+
+
+main .question .second .right-question img{
+    object-fit: cover;
+    border-radius: 50% 20% 50% 20%;
+}
+/* question end */
+
