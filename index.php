@@ -74,7 +74,45 @@
       <!-- teacher end -->
 
 
+ <!-- question start -->
+ <section class="question">
+      <div class="container">
+        <div class="row mb-3">
+          <div class="col-md-6">
+            <div class="text">
+              <h3>DIU QUESTIONS</h3>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="qtn-btn text-end">
+              <a role="button" href="question.html" class="btn btn-primary">Find<i class="fas fa-search search"></i></a>
+            </div>
+          </div>
+        </div>
+        <div class="row second">
+          <div class="col-md-6">
+            <figure class="question-quote">
+              <blockquote class="blockquote">
+                <p>It is the supreme art of the teacher to awaken joy in creative expression and knowledge.</p>
+              </blockquote>
+              <figcaption class="blockquote-footer">
+                <cite title="Source Title">Albert Einstein</cite>
+              </figcaption>
+              
+            </figure>
+            
+          </div>
+          <div class="col-md-6">
+            <div class="right-question">
+              <img class="img-fluid" src="./img/Question/pressure.jpg" alt="teacher">
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </section>
 
+ <!-- question end -->
 
         <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
