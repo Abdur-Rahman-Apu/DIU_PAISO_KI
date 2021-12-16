@@ -108,3 +108,13 @@ main .question .second .right-question img{
 }
 /* question end */
 
+/* club */
+
+main .clubs .card {
+    overflow: hidden;
+    text-align: center;
+    height: calc(100vh/1.2);
+}
+
+
+
